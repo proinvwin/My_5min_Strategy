@@ -14,8 +14,8 @@ import smtplib
 from email.message import EmailMessage
 import requests
 from bs4 import BeautifulSoup
-#from pytz import timezone
-#tz = timezone('EST')
+
+
 
 hot_surge = 30
 strong_surge = 20
